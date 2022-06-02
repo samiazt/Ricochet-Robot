@@ -15,4 +15,14 @@ Fonctionnalités attendues :
 Fonctionnalités supplémentaires que nous avons mis en place : 
 • Rendre le jeu jouable pour plus de 2 joueurs
 
+Le jeu qu'on a codé ressemble à ceci : 
+<img width="1032" alt="Capture d’écran 2022-06-02 à 22 00 28" src="https://user-images.githubusercontent.com/93775064/171743155-107d9084-8974-414c-a51b-51441a080551.png">
+
+
+
+
+Voici le diagramme UML présentant la logique de notre jeu :
+
 ![Ricochet robot diagram UML](https://user-images.githubusercontent.com/93775064/171743022-ac9e4af7-b87e-4305-9be9-c07d969b7a2e.png)
+
+Amusez vous bien !
